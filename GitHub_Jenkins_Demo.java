@@ -3,5 +3,6 @@ public class GitHub_Jenkins_Demo {
         System.out.println("taking input from github displaying result in jenkins");
         int d=45;
         int h=40;
+        int v=78;
     }
 }
